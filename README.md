@@ -1,2 +1,2 @@
 # php-version
-PHP windows binaries
+PHP windows binaries including all standand extensions present in original PHP distribution
